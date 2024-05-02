@@ -1,7 +1,7 @@
 import pandas as pd
 
 # Cargar el archivo Excel
-archivo_excel = 'cruce.xlsx'  # Asegúrate de reemplazar 'cruce.xlsx' con el nombre de tu archivo real
+archivo_excel = 'cruce.xlsx'
 
 # Nombres de las hojas
 nombres_hojas = ['hos11', 'ssd3', 'hos12', 'hos14', 'hos3', 'hos7', 'server2', 'server2hostingcom', 'ssd4', 'ssd5', 'uh2', 'ssd1']
